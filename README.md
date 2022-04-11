@@ -1,4 +1,4 @@
-# hello-world
+# hello-world Project
  This is a test repository for educational intent.
  This line was added as an addition, and the app Sublime Text was utilized.
  This line was added on the github website, rather than the app. I now have to click COMMIT CHANGES.
